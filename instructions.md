@@ -22,7 +22,7 @@
    - It manages its own count value
    - It signals a STARTED, STOPPED & TICK events
      and sends its count value as a payload.
-   - Have a look at *index.ts* to see the new instance creation and usage.
+   - Have a look at *index.js* to see the new instance creation and usage.
 
 ------------------------------------------------
 /* Bonus tasks - enhance the EventEmitter */

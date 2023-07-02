@@ -3,7 +3,7 @@ class EventEmitter {
    * Essential tasks
    **/
   on() {
-    //adds a callback to be called when an event occures
+    //adds a callback to be called when an event occurs
   }
   off() {
     //removes a callback from a given event name
